@@ -1,0 +1,136 @@
+body {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
+.fundo {
+    width: 95%;
+    height: 1500px;
+    border: solid mediumblue 2px;
+    margin-left: 40px;
+    margin-top: 60px;
+    background-color: black;
+}
+.cabessalho {
+    width: 95%;
+    height: 66px;
+    border: solid darkgray 1px;
+    background-color: midnightblue;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: -70px;
+    color:powderblue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: home;
+    font-size: 25px;
+    
+}
+@font-face {
+    font-family: home;
+    src: url(FUTRFW.TTF);
+}
+.imagem {
+    position: absolute;
+    right: 70px;
+    width: 700px;
+    height: 700px;
+    margin-top: 40px;
+
+}
+.criptografia {
+    color: white;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 130px;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+@font-face {
+    font-family: fontecripto;
+    src: url(fontecripto.otf);
+}
+.info {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 240px;
+    font-size: 11px;
+    margin-left: 20px;
+    
+}
+.CONFIDENCIALIDADE {
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 230px;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+.info-1 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 500px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.integridade {
+    color: white;
+    position: absolute;
+    margin-top: 660px;
+    margin-left: 200px;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+.info-2 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 750px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.imagem-1 {
+    margin-top: 890px;
+    margin-left: 20px ;
+}
+.cripto {
+    color:white;
+    position: absolute;
+    margin-top: 880px;
+    font-family: fontecripto;
+    font-size: 42px;
+    margin-left: 950px;
+}
+.info-3 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 980px;
+    font-size: 17px;
+    margin-left: 870px;
+}
+.auten {
+    color:white;
+    position: absolute;
+    margin-top: 1100px;
+    font-family: fontecripto;
+    font-size: 42px;
+    margin-left: 950px;
+}
+.info-4 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 1250px;
+    font-size: 17px;
+    margin-left: 870px;
+}
+.final {
+    color: white;
+    font-family: fontecripto;
+    margin-top: 20px;
+    margin: 10px;
+}
